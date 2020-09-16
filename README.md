@@ -13,4 +13,5 @@ Si è usufruito delle Test Bench offerte dalle specifiche e in seguito si ha pro
 
 ## Sviluppatori
 [Stefano Zaffiretti](https://github.com/StefanoZaffiretti)
+
 [Eugenio Terzi](https://github.com/EugenioTerzi)
