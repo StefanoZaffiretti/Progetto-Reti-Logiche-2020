@@ -1,5 +1,5 @@
 # Progetto-Reti-Logiche-2020 - a.a. 2019/2020
-Lo scopo del progetto è di implementare un componente che rispettasse la codifica a bassa dissipazione di potenza denominata "Working Zone".
+Lo scopo del progetto è di implementare un componente che rispetti la codifica a bassa dissipazione di potenza denominata "Working Zone".
 
 ## Descrizione Generale
 Il metodo di codifica Working Zone è un metodo pensato per il Bus Indirizzi che si usa per trasformare il valore di un indirizzo quando questo viene trasmesso, se appartiene a certi intervalli (detti appunto working-zone). Una working-zone è definita come un intervallo di indirizzi di dimensione fissa che parte da un indirizzo base. All’interno dello schema di codifica possono esistere multiple working-zone.
